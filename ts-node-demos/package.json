@@ -1,0 +1,16 @@
+{
+  "name": "ts-node-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rimraf dist && tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rimraf": "^6.0.1",
+    "typescript": "^5.7.2"
+  }
+}
